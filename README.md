@@ -13,4 +13,3 @@ GUI_2.py is the window where the gui is run
 client_info has functions that are used in GUI_2.py. It can check if client is open, if you are in champion select, or what champions your team picked.
 The application is deffinitely not complete yet, but to create an MVP(Minimum viable product) more data is needed. That is why data gathering is the bottleneck in this project.
 Thats why I would like to get access to production key before spending more time on the app.
-Can't wait to make this project into reality :)
